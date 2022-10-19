@@ -1,0 +1,3 @@
+C:/Users/aaron/Documents/VSCode/CPP/HelloCMake/out/build/x64-debug/CMakeFiles/HelloCMake.dir
+C:/Users/aaron/Documents/VSCode/CPP/HelloCMake/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/aaron/Documents/VSCode/CPP/HelloCMake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
